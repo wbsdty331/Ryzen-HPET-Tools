@@ -15,8 +15,6 @@ In order for `Ryzen Master` to show you accurate real-time graphs of voltages an
 * Make sure your Processor is AMD Ryzen Series.
 * Run this tool as administrator.
 * This tool will automatically detect your system,and shows a dialog to remind that `"You need to restart the system to Enable HPET, restart now?"`. Click "Yes".
-
-![notice.png](https://ooo.0o0.ooo/2017/03/18/58ccc07d49752.png)
 * After system restart, it will auto enable HPET Feature.
 
 ## License
