@@ -1,6 +1,8 @@
 # Ryzen HPET Tools
 ---
-## Preparing to use Ryzen Master Utility
+## Prepare to use Ryzen Master Utility
+**It is important to note that any form of manual CPU overclocking, including using the AMD Ryzen Master Utility may damage your processor and invalidate the warranty.**
+
 In order for `Ryzen Master` to show you accurate real-time graphs of voltages and clock speeds, make sure you have **HPET (High Precision Event Timers)** enabled in Windows 10. If you don’t have HPET enabled you’ll be greeted with an error message when you try to apply your overclocking profile. After Enable HPET and restarting your system, Ryzen Master will work normally.
 
 ![snipaste20170318_125156.png](https://ooo.0o0.ooo/2017/03/18/58ccbd5c5eb7f.png)
