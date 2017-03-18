@@ -1,5 +1,5 @@
 # Ryzen HPET Tools
----
+
 ## Prepare to use Ryzen Master Utility
 **It is important to note that any form of manual CPU overclocking, including using the AMD Ryzen Master Utility may damage your processor and invalidate the warranty.**
 
