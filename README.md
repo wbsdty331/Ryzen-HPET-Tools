@@ -9,10 +9,10 @@ In order for `Ryzen Master` to show you accurate real-time graphs of voltages an
 
 > What happens if you try to use Ryzen Master with HPET disabled.
 
-**Notice: Windows updates may disable HPET, so if the app starts popping up warnings long after you’ve overclocked your system, run this tool again.**
 
 ## How to use
-* Make sure your Professor is AMD Ryzen Series.
+**Notice: Windows updates may disable HPET, so if the app starts popping up warnings long after you’ve overclocked your system, run this tool again.**
+* Make sure your Processor is AMD Ryzen Series.
 * Run this tool as administrator.
 * This tool will automatically detect your system,and shows a dialog to remind that `"You need to restart the system to Enable HPET, restart now?"`. Click "Yes".
 
